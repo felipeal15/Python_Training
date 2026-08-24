@@ -17,4 +17,4 @@ def minmax(list : list):
 
 #PODIA TER SO USADO A FUNCAO MAX() E MIN. SENDO MAX(LIST) E MIN(LIST)
 
-print (minmax([5,1,2,3,7,4]))
+print (minmax([5,1,2,3,7,4])) 
